@@ -50,7 +50,10 @@ section {
 }
 
 #bienvenidos {
-    text-align: center;
+    text-align: justify;
+    h2{
+        text-align: center;
+    }
 }
 
 footer .contenedor{
